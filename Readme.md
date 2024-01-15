@@ -1,10 +1,10 @@
 # Todo's Wesbite App
 
-![Contributors](https://img.shields.io/github/contributors/jvsadek/Cafes_Website?style=plastic)
-![Forks](https://img.shields.io/github/forks/jvsadek/Cafes_Website)
-![Stars](https://img.shields.io/github/stars/jvsadek/Cafes_Website)
-![Licence](https://img.shields.io/github/license/jvsadek/Cafes_Website)
-![Issues](https://img.shields.io/github/issues/jvsadek/Cafes_Website)
+![Contributors](https://img.shields.io/github/contributors/jvsadek/ToDos_Website_App?style=plastic)
+![Forks](https://img.shields.io/github/forks/jvsadek/ToDos_Website_App)
+![Stars](https://img.shields.io/github/stars/jvsadek/ToDos_Website_App)
+![Licence](https://img.shields.io/github/license/jvsadek/ToDos_Website_App)
+![Issues](https://img.shields.io/github/issues/jvsadek/ToDos_Website_App)
 
 ## 
 ### Description
